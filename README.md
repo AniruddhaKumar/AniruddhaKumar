@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World I am a Student and Learner of the World of Software 👋
 
 - 🔭 I’m currently working on Web Development and JAVA
 - 🌱 I’m currently learning AI and Machine Learning using Python
@@ -8,4 +8,4 @@
 - 📫 How to reach me: ...(Instagram)(_anirudh_k_)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love everthing about Nature and its wonders.
--->
+
